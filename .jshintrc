@@ -3,6 +3,7 @@
   "eqeqeq": true,
   "nocomma": true,
   "strict": "global",
+  "esversion" : 6,
   "globals": {
     "require": false,
     "module": false,
